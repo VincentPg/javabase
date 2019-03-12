@@ -1,3 +1,5 @@
+package cn.com.study.multithread.usage.currentThread;
+
 import cn.com.study.multithread.usage.currentThread.MyCurrentThread;
 
 /**
